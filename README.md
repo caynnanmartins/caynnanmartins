@@ -1,9 +1,10 @@
 ## Olá Mundo 👋
 
-## Meu nome é Caynnan conhecido como Cmart;
+## Meu nome é Caynnan conhecido como Cmart 🧑‍💻
 
 MINHAS PRNICIPAIS ATIVIDADES NA PLATAFORMA ESTÃO RELACIONADAS À
 
 AULAS DA PLATAFORMA ALURA 📑
 
 PROGRAMAÇÃO JAVASCRIPT 🖥️
+PROGRAMADOR FULLSTACK 👌
